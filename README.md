@@ -1,2 +1,4 @@
-# bioSite
-This is a bio site as part of the course csd-340.
+# CSD 340 Web Development with HTML and CSS
+## Contributors
+* Tracy Shelanskey
+* Praveen Theerthagiri
