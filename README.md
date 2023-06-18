@@ -1,4 +1,4 @@
 # CSD 340 Web Development with HTML and CSS
 ## Contributors
-* Tracy Shelanskey
-* Praveen Theerthagiri
+* Instructor: Tracy Shelanskey
+* Student: Praveen Theerthagiri
